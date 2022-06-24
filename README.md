@@ -6,7 +6,7 @@ How to use:
 
     Install nodeJS to have npm
 
-    npm install tachyons@4.12.0
+    git clone https://github.com/binelias/RoboExpo_React-Redux.git
 
     npm install
 
